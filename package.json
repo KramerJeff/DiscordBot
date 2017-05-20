@@ -1,5 +1,5 @@
 {
-  "name": "discord",
+  "name": "jeffbot",
   "version": "1.0.0",
   "description": "Discord bot code",
   "main": "index.js",
@@ -14,5 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^10.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KramerJeff/DiscordBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KramerJeff/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/KramerJeff/DiscordBot#readme"
 }
